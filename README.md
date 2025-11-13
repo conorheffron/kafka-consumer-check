@@ -1,5 +1,7 @@
 # kafka-consumer-check
 
+[![Java CI with Maven](https://github.com/conorheffron/kafka-consumer-check/actions/workflows/maven.yml/badge.svg)](https://github.com/conorheffron/kafka-consumer-check/actions/workflows/maven.yml)
+
 ## Tech
 - JDK 17, Apache Kafka 3, Kafka Broker
 
@@ -10,7 +12,7 @@
 
 ## Run Kafka Consumer
 ```shell
-java -jar target/kafka-tester-1.0-SNAPSHOT.jar localhost:9092 ironoc-test-topic ironoc-net
+java -jar target/kafka-tester-1.1-SNAPSHOT.jar localhost:9092 ironoc-test-topic ironoc-net-group
 ```
 
 ## See Consumer App Running below:
