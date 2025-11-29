@@ -3,7 +3,7 @@
 [![Java CI with Maven](https://github.com/conorheffron/kafka-consumer-check/actions/workflows/maven.yml/badge.svg)](https://github.com/conorheffron/kafka-consumer-check/actions/workflows/maven.yml)
 
 ## Tech
-- JDK 17, Apache Kafka 3, Kafka Broker
+- JDK 17, Apache Kafka 4 (Client Libs), & Kafka Broker
 
 ## Build Project
 ```shell
