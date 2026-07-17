@@ -12,7 +12,7 @@
 
 ## Run Kafka Consumer
 ```shell
-java -jar target/kafka-tester-1.3-SNAPSHOT.jar localhost:9092 ironoc-test-topic ironoc-net-group
+java -jar target/kafka-tester-1.4-SNAPSHOT.jar localhost:9092 ironoc-test-topic ironoc-net-group
 ```
 
 ## See Consumer App Running below:
